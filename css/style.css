@@ -152,7 +152,7 @@ h3 {
   color:#8f8f8f;
   padding:1%;
 }
-@media (max-width:1400px) {
+@media (max-width:1000px) {
 
   .title-image {
     position: static;
